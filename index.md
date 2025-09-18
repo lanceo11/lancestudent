@@ -1,12 +1,12 @@
 ---
 layout: base
-title: John Tab 
+title: Lance's Tab 
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is John.
+Hi! My name is Lance.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
