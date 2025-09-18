@@ -12,8 +12,8 @@ Hi! My name is Lance.
 |--------------|----------|-------------------------------------|-----------------------|-----------|
 | Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
 | Scrummer     | Lance    | github.com/lanceo11/student         | downstream (fork)     | student   |
-| Scrummer     | Sid      | github.com/SidH011/student          | downstream (fork)     | student   |
 | Scrummer     | Ishan    | github.com/Jupiterian/student       | downstream (fork)     | student   |
+| Scrummer     | Sid      | github.com/SidH011/student          | downstream (fork)     | student   |
 
 
 ## Links to Learning
