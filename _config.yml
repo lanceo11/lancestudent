@@ -24,3 +24,5 @@ exclude:
   - venv/
   - .bundle/
   - Makefile
+
+  - vendor/
